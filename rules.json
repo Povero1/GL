@@ -1,0 +1,27 @@
+[
+  {
+    "id": "رتب البيع العاديه",
+    "title": "رتب البيع العاديه",
+    "description": "data/file1.txt"
+  },
+  {
+    "id": "رتب البيع النادره",
+    "title": "رتب البيع النادره",
+    "description": "data/file2.txt"
+  },
+  {
+    "id": " المنشورات المميزة",
+    "title": " المنشورات المميزة",
+    "description": "data/file3.txt"
+  },
+  {
+    "id": "الرومات الخاصه",
+    "title": "الرومات الخاصه",
+    "description": "data/file4.txt"
+  },
+  {
+    "id": "الاعلانات",
+    "title": "الاعلانات",
+    "description": "data/file5.txt"
+  }
+]
